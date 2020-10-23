@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\lib">
+      <UniqueIdentifier>{2739B19F-16DF-601C-060A-FF86F6A40045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:">
+      <UniqueIdentifier>{8CFF81E0-219F-7AC4-FE29-B3328AD4560B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\UserSesaWin64">
+      <UniqueIdentifier>{F073CFF5-AC0A-85DB-9317-38BB2F476E9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\UserSesaWin64\Documents">
+      <UniqueIdentifier>{87566BA0-CA33-1144-65F5-087C5F9D6C20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\UserSesaWin64\Documents\rinku_mouse_manager">
+      <UniqueIdentifier>{E9754F7E-D46E-C142-F77A-52CC913D483E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\UserSesaWin64\Documents\rinku_mouse_manager\node_modules">
+      <UniqueIdentifier>{56DF7A98-063D-FB9D-485C-089023B4C16A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\UserSesaWin64\Documents\rinku_mouse_manager\node_modules\node-gyp">
+      <UniqueIdentifier>{77348C0E-2034-7791-74D5-63C077DF5A3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="G:\UserSesaWin64\Documents\rinku_mouse_manager\node_modules\node-gyp\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\lib\windows.cc">
+      <Filter>..\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\UserSesaWin64\Documents\rinku_mouse_manager\node_modules\node-gyp\src\win_delay_load_hook.cc">
+      <Filter>G:\UserSesaWin64\Documents\rinku_mouse_manager\node_modules\node-gyp\src</Filter>
+    </ClCompile>
+    <None Include="..\binding.gyp">
+      <Filter>..</Filter>
+    </None>
+  </ItemGroup>
+</Project>
